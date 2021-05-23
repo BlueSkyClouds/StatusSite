@@ -1,31 +1,63 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: BlueSkyClouds # Your GitHub organization or username, where this repository lives
+repo: StatusSite # The name of this repository
+assignees:
+  - BlueSkyClouds
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: BlueSkyClouds
+    url: https://blueskyclouds.com
+  - name: Blog
+    url: https://blog.blueskyclouds.com
+  - name: LemonHD
+    url: https://lemonhd.org
+  - name: 93x
+    url: https://csgo.upkk.com
+  - name: Zombieden
+    url: https://zombieden.cn/#ServerList-Title
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.blueskyclouds.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status Site | BlueSkyClouds
+  theme: dark
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+i18n:
+  activeIncidents: Active Incidents
+  allSystemsOperational: "🟩 所有服务皆运作正常"
+  up: "🟩 正常"
+  incidentReport: "Incident #$NUMBER report →"
+  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  incidentTitle: Incident $NUMBER Details
+  incidentDetails: Incident Details
+  incidentFixed: Fixed
+  incidentOngoing: Ongoing
+  incidentOpenedAt: Opened at
+  incidentClosedAt: Closed at
+  incidentSubscribe: Subscribe to Updates
+  incidentViewOnGitHub: View on GitHub
+  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentBack: ← Back to all incidents
+  pastIncidents: Past Incidents
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  liveStatus: Live Status
+  overallUptime: "Overall uptime: $UPTIME"
+  overallUptimeTitle: Overall uptime
+  averageResponseTime: "Average response time: $TIMEms"
+  averageResponseTimeTitle: Average response
+  sevelDayResponseTime: 7-day response time
+  responseTimeMs: Response time (ms)
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
