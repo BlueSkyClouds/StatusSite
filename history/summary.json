@@ -40,19 +40,19 @@
     "url": "https://lemonhd.org",
     "icon": "https://favicons.githubusercontent.com/lemonhd.org",
     "slug": "lemon-hd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 693,
-    "timeWeek": 511,
-    "timeMonth": 511,
-    "timeYear": 511,
+    "status": "up",
+    "uptime": "98.71%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
+    "time": 515,
+    "timeDay": 616,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {
-      "2021-05-26": 0
+      "2021-05-26": 51
     }
   },
   {
