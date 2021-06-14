@@ -6,15 +6,15 @@
     "slug": "blue-sky-clouds",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1690,
-    "timeDay": 1849,
-    "timeWeek": 1825,
-    "timeMonth": 1690,
-    "timeYear": 1690,
+    "time": 1697,
+    "timeDay": 1883,
+    "timeWeek": 1847,
+    "timeMonth": 1697,
+    "timeYear": 1697,
     "dailyMinutesDown": {
       "2021-06-12": 18
     }
@@ -26,15 +26,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 2447,
-    "timeDay": 2698,
-    "timeWeek": 2669,
-    "timeMonth": 2447,
-    "timeYear": 2447,
+    "time": 2465,
+    "timeDay": 2916,
+    "timeWeek": 2700,
+    "timeMonth": 2465,
+    "timeYear": 2465,
     "dailyMinutesDown": {
       "2021-06-12": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 747,
-    "timeDay": 660,
-    "timeWeek": 762,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "time": 745,
+    "timeDay": 700,
+    "timeWeek": 781,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2021-05-26": 51
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2041,
-    "timeDay": 1397,
-    "timeWeek": 1513,
-    "timeMonth": 2041,
-    "timeYear": 2041,
+    "time": 2024,
+    "timeDay": 1649,
+    "timeWeek": 1515,
+    "timeMonth": 2024,
+    "timeYear": 2024,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1853,
-    "timeDay": 1564,
-    "timeWeek": 1443,
-    "timeMonth": 1853,
-    "timeYear": 1853,
+    "time": 1834,
+    "timeDay": 1392,
+    "timeWeek": 1431,
+    "timeMonth": 1834,
+    "timeYear": 1834,
     "dailyMinutesDown": {}
   }
 ]
