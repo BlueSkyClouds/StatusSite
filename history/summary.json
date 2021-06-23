@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1725,
-    "timeDay": 1742,
-    "timeWeek": 1806,
-    "timeMonth": 1725,
-    "timeYear": 1725,
+    "time": 1727,
+    "timeDay": 1779,
+    "timeWeek": 1811,
+    "timeMonth": 1727,
+    "timeYear": 1727,
     "dailyMinutesDown": {
       "2021-06-12": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 2508,
-    "timeDay": 2712,
-    "timeWeek": 2609,
-    "timeMonth": 2508,
-    "timeYear": 2508,
+    "time": 2513,
+    "timeDay": 2698,
+    "timeWeek": 2633,
+    "timeMonth": 2513,
+    "timeYear": 2513,
     "dailyMinutesDown": {
       "2021-06-12": 18
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/lemonhd.org",
     "slug": "lemon-hd",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 709,
-    "timeDay": 548,
-    "timeWeek": 630,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 705,
+    "timeDay": 584,
+    "timeWeek": 512,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2021-06-17": 29,
       "2021-05-26": 51
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1886,
-    "timeDay": 1511,
-    "timeWeek": 1468,
-    "timeMonth": 1886,
-    "timeYear": 1886,
+    "time": 1874,
+    "timeDay": 1486,
+    "timeWeek": 1529,
+    "timeMonth": 1874,
+    "timeYear": 1874,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1749,
-    "timeDay": 2331,
-    "timeWeek": 1481,
-    "timeMonth": 1749,
-    "timeYear": 1749,
+    "time": 1740,
+    "timeDay": 1462,
+    "timeWeek": 1510,
+    "timeMonth": 1740,
+    "timeYear": 1740,
     "dailyMinutesDown": {}
   }
 ]
