@@ -4,7 +4,7 @@
     "url": "https://blueskyclouds.com",
     "icon": "https://favicons.githubusercontent.com/blueskyclouds.com",
     "slug": "blue-sky-clouds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1846,
     "timeDay": 1952,
-    "timeWeek": 1808,
+    "timeWeek": 1820,
     "timeMonth": 1946,
     "timeYear": 1846,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2666,
     "timeDay": 2372,
-    "timeWeek": 2721,
+    "timeWeek": 2812,
     "timeMonth": 2800,
     "timeYear": 2666,
     "dailyMinutesDown": {}
