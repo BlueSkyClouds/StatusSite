@@ -4,7 +4,7 @@
     "url": "https://blueskyclouds.com",
     "icon": "https://favicons.githubusercontent.com/blueskyclouds.com",
     "slug": "blue-sky-clouds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1861,
     "timeDay": 1856,
     "timeWeek": 1889,
-    "timeMonth": 1937,
+    "timeMonth": 1940,
     "timeYear": 1861,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 2729,
     "timeDay": 3130,
     "timeWeek": 2911,
-    "timeMonth": 2848,
+    "timeMonth": 2854,
     "timeYear": 2729,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 657,
     "timeDay": 893,
     "timeWeek": 648,
-    "timeMonth": 599,
+    "timeMonth": 566,
     "timeYear": 657,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "https://csgo.upkk.com",
     "icon": "https://favicons.githubusercontent.com/csgo.upkk.com",
     "slug": "93x",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2011,
-    "timeDay": 2858,
-    "timeWeek": 2335,
-    "timeMonth": 2015,
-    "timeYear": 2011,
+    "time": 2017,
+    "timeDay": 2821,
+    "timeWeek": 2341,
+    "timeMonth": 2042,
+    "timeYear": 2017,
     "dailyMinutesDown": {}
   },
   {
@@ -85,7 +85,7 @@
     "time": 1765,
     "timeDay": 0,
     "timeWeek": 1692,
-    "timeMonth": 1705,
+    "timeMonth": 1724,
     "timeYear": 1765,
     "dailyMinutesDown": {}
   }
