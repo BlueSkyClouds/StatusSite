@@ -58,7 +58,7 @@
     "url": "https://csgo.upkk.com",
     "icon": "https://favicons.githubusercontent.com/csgo.upkk.com",
     "slug": "93x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 2135,
     "timeDay": 2153,
-    "timeWeek": 2520,
+    "timeWeek": 2528,
     "timeMonth": 2236,
     "timeYear": 2135,
     "dailyMinutesDown": {}
