@@ -13,7 +13,7 @@
     "time": 1817,
     "timeDay": 1579,
     "timeWeek": 1714,
-    "timeMonth": 1818,
+    "timeMonth": 1796,
     "timeYear": 1817,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://blog.blueskyclouds.com",
     "icon": "https://favicons.githubusercontent.com/blog.blueskyclouds.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 2685,
     "timeDay": 2556,
     "timeWeek": 2562,
-    "timeMonth": 2730,
+    "timeMonth": 2711,
     "timeYear": 2685,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://csgo.upkk.com",
     "icon": "https://favicons.githubusercontent.com/csgo.upkk.com",
     "slug": "93x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 2138,
     "timeDay": 1716,
     "timeWeek": 2062,
-    "timeMonth": 2318,
+    "timeMonth": 2310,
     "timeYear": 2138,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1842,
     "timeDay": 1740,
     "timeWeek": 1857,
-    "timeMonth": 1992,
+    "timeMonth": 2007,
     "timeYear": 1842,
     "dailyMinutesDown": {}
   }
