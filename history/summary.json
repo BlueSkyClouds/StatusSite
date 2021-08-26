@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1844,
     "timeDay": 1537,
-    "timeWeek": 1798,
-    "timeMonth": 1909,
+    "timeWeek": 1785,
+    "timeMonth": 1918,
     "timeYear": 1844,
     "dailyMinutesDown": {}
   },
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2897,
     "timeDay": 2518,
-    "timeWeek": 2761,
+    "timeWeek": 2763,
     "timeMonth": 3512,
     "timeYear": 2897,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://csgo.upkk.com",
     "icon": "https://favicons.githubusercontent.com/csgo.upkk.com",
     "slug": "93x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 2202,
     "timeDay": 2045,
-    "timeWeek": 2263,
+    "timeWeek": 2244,
     "timeMonth": 2359,
     "timeYear": 2202,
     "dailyMinutesDown": {}
