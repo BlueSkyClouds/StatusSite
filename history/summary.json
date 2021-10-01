@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2051,
     "timeDay": 2026,
-    "timeWeek": 3405,
+    "timeWeek": 2075,
     "timeMonth": 2856,
     "timeYear": 2051,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 3013,
     "timeDay": 2572,
-    "timeWeek": 3867,
+    "timeWeek": 3946,
     "timeMonth": 3464,
     "timeYear": 3013,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://bbs.upkk.com",
     "icon": "https://favicons.githubusercontent.com/bbs.upkk.com",
     "slug": "93x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
