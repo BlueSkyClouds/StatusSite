@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2049,
     "timeDay": 1961,
-    "timeWeek": 1804,
+    "timeWeek": 1905,
     "timeMonth": 1848,
     "timeYear": 2049,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 3048,
     "timeDay": 2769,
-    "timeWeek": 2628,
+    "timeWeek": 2733,
     "timeMonth": 2667,
     "timeYear": 3048,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://lemonhd.org",
     "icon": "https://favicons.githubusercontent.com/lemonhd.org",
     "slug": "lemon-hd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 2459,
     "timeDay": 2561,
     "timeWeek": 3509,
-    "timeMonth": 2790,
+    "timeMonth": 2794,
     "timeYear": 2459,
     "dailyMinutesDown": {}
   },
