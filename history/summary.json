@@ -31,7 +31,7 @@
     "time": 3064,
     "timeDay": 2598,
     "timeWeek": 3699,
-    "timeMonth": 3943,
+    "timeMonth": 3976,
     "timeYear": 3064,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://bbs.upkk.com",
     "icon": "https://favicons.githubusercontent.com/bbs.upkk.com",
     "slug": "93x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 2615,
     "timeDay": 4008,
     "timeWeek": 2901,
-    "timeMonth": 3042,
+    "timeMonth": 2485,
     "timeYear": 2615,
     "dailyMinutesDown": {}
   },
