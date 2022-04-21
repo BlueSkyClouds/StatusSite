@@ -22,7 +22,7 @@
     "url": "https://blog.blueskyclouds.com",
     "icon": "https://favicons.githubusercontent.com/blog.blueskyclouds.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 709,
     "timeDay": 621,
     "timeWeek": 874,
-    "timeMonth": 1036,
+    "timeMonth": 1059,
     "timeYear": 709,
     "dailyMinutesDown": {}
   },
