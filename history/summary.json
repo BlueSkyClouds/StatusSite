@@ -76,17 +76,17 @@
     "url": "https://zombieden.cn/#ServerList-Title",
     "icon": "https://favicons.githubusercontent.com/zombieden.cn",
     "slug": "zombieden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1649,
-    "timeDay": 1364,
-    "timeWeek": 1250,
-    "timeMonth": 1206,
-    "timeYear": 1642,
+    "time": 1647,
+    "timeDay": 1133,
+    "timeWeek": 1206,
+    "timeMonth": 1197,
+    "timeYear": 1640,
     "dailyMinutesDown": {}
   }
 ]
