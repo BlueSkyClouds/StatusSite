@@ -4,7 +4,7 @@
     "url": "https://blueskyclouds.com",
     "icon": "https://favicons.githubusercontent.com/blueskyclouds.com",
     "slug": "blue-sky-clouds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1887,
     "timeDay": 1632,
     "timeWeek": 1456,
-    "timeMonth": 1533,
+    "timeMonth": 1534,
     "timeYear": 1895,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 2955,
     "timeDay": 2484,
     "timeWeek": 2832,
-    "timeMonth": 2404,
+    "timeMonth": 2412,
     "timeYear": 2996,
     "dailyMinutesDown": {}
   },
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 820,
-    "timeDay": 682,
+    "timeDay": 921,
     "timeWeek": 700,
     "timeMonth": 835,
     "timeYear": 857,
@@ -67,7 +67,7 @@
     "time": 2539,
     "timeDay": 2106,
     "timeWeek": 2163,
-    "timeMonth": 2569,
+    "timeMonth": 2585,
     "timeYear": 2630,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1613,
     "timeDay": 1455,
     "timeWeek": 1316,
-    "timeMonth": 1206,
+    "timeMonth": 1216,
     "timeYear": 1573,
     "dailyMinutesDown": {}
   }
