@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1852,
     "timeDay": 1696,
-    "timeWeek": 1665,
+    "timeWeek": 1704,
     "timeMonth": 1602,
     "timeYear": 1814,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "https://zombieden.cn/#ServerList-Title",
     "icon": "https://favicons.githubusercontent.com/zombieden.cn",
     "slug": "zombieden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
