@@ -22,7 +22,7 @@
     "url": "https://blog.blueskyclouds.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.blueskyclouds.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,7 +68,7 @@
     "timeDay": 1231,
     "timeWeek": 1285,
     "timeMonth": 1527,
-    "timeYear": 2188,
+    "timeYear": 2189,
     "dailyMinutesDown": {}
   },
   {
