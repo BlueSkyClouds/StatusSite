@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2662,
     "timeDay": 1821,
-    "timeWeek": 2134,
+    "timeWeek": 2051,
     "timeMonth": 2168,
     "timeYear": 2649,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "https://zombieden.cn/#ServerList-Title",
     "icon": "https://icons.duckduckgo.com/ip3/zombieden.cn.ico",
     "slug": "zombieden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
