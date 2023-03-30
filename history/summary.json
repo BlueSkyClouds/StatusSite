@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1684,
-    "timeDay": 1255,
-    "timeWeek": 2025,
-    "timeMonth": 1638,
-    "timeYear": 1642,
+    "timeDay": 1468,
+    "timeWeek": 2013,
+    "timeMonth": 1645,
+    "timeYear": 1643,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://blog.blueskyclouds.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.blueskyclouds.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
