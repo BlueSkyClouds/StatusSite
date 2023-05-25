@@ -31,7 +31,7 @@
     "time": 2644,
     "timeDay": 2361,
     "timeWeek": 2097,
-    "timeMonth": 2064,
+    "timeMonth": 2052,
     "timeYear": 2523,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://bbs.upkk.com",
     "icon": "https://icons.duckduckgo.com/ip3/bbs.upkk.com.ico",
     "slug": "93x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,9 +66,9 @@
     "uptimeYear": "100.00%",
     "time": 2020,
     "timeDay": 1432,
-    "timeWeek": 1428,
+    "timeWeek": 1496,
     "timeMonth": 1917,
-    "timeYear": 1956,
+    "timeYear": 1955,
     "dailyMinutesDown": {}
   },
   {
