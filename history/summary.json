@@ -32,7 +32,7 @@
     "timeDay": 1779,
     "timeWeek": 2167,
     "timeMonth": 2032,
-    "timeYear": 2521,
+    "timeYear": 2517,
     "dailyMinutesDown": {}
   },
   {
@@ -58,7 +58,7 @@
     "url": "https://bbs.upkk.com",
     "icon": "https://icons.duckduckgo.com/ip3/bbs.upkk.com.ico",
     "slug": "93x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,7 +68,7 @@
     "timeDay": 1486,
     "timeWeek": 1568,
     "timeMonth": 1914,
-    "timeYear": 1949,
+    "timeYear": 1950,
     "dailyMinutesDown": {}
   },
   {
