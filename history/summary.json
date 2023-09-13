@@ -4,7 +4,7 @@
     "url": "https://blueskyclouds.com",
     "icon": "https://icons.duckduckgo.com/ip3/blueskyclouds.com.ico",
     "slug": "blue-sky-clouds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1761,
     "timeDay": 2298,
-    "timeWeek": 2928,
+    "timeWeek": 2942,
     "timeMonth": 2433,
     "timeYear": 1795,
     "dailyMinutesDown": {}
