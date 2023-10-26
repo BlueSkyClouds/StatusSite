@@ -14,7 +14,7 @@
     "timeDay": 6123,
     "timeWeek": 3350,
     "timeMonth": 2657,
-    "timeYear": 1903,
+    "timeYear": 1905,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1824,
     "timeWeek": 1597,
     "timeMonth": 1788,
-    "timeYear": 2432,
+    "timeYear": 2433,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1038,
+    "time": 994,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 960,
+    "timeYear": 961,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,17 @@
     "url": "https://bbs.upkk.com",
     "icon": "https://icons.duckduckgo.com/ip3/bbs.upkk.com.ico",
     "slug": "93x",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2305,
-    "timeDay": 3533,
-    "timeWeek": 5710,
-    "timeMonth": 3159,
-    "timeYear": 2355,
+    "time": 2306,
+    "timeDay": 3159,
+    "timeWeek": 5385,
+    "timeMonth": 3148,
+    "timeYear": 2358,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 1604,
     "timeWeek": 2712,
     "timeMonth": 2359,
-    "timeYear": 1691,
+    "timeYear": 1694,
     "dailyMinutesDown": {}
   }
 ]
