@@ -4,17 +4,17 @@
     "url": "https://blueskyclouds.com",
     "icon": "https://icons.duckduckgo.com/ip3/blueskyclouds.com.ico",
     "slug": "blue-sky-clouds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1866,
+    "time": 1867,
     "timeDay": 3403,
     "timeWeek": 3123,
     "timeMonth": 2724,
-    "timeYear": 1915,
+    "timeYear": 1909,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1189,
     "timeWeek": 1497,
     "timeMonth": 1737,
-    "timeYear": 2427,
+    "timeYear": 2421,
     "dailyMinutesDown": {}
   },
   {
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 2338,
     "timeDay": 6429,
-    "timeWeek": 6983,
+    "timeWeek": 7585,
     "timeMonth": 3779,
     "timeYear": 2406,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "timeDay": 1833,
     "timeWeek": 2898,
     "timeMonth": 2409,
-    "timeYear": 1705,
+    "timeYear": 1708,
     "dailyMinutesDown": {}
   }
 ]
