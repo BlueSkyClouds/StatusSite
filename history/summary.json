@@ -40,7 +40,7 @@
     "url": "https://lemonhd.org",
     "icon": "https://icons.duckduckgo.com/ip3/lemonhd.org.ico",
     "slug": "lemon-hd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,8 +49,8 @@
     "time": 924,
     "timeDay": 643,
     "timeWeek": 669,
-    "timeMonth": 736,
-    "timeYear": 862,
+    "timeMonth": 737,
+    "timeYear": 854,
     "dailyMinutesDown": {}
   },
   {
