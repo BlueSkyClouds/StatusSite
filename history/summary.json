@@ -76,17 +76,17 @@
     "url": "https://zombieden.cn/#ServerList-Title",
     "icon": "https://icons.duckduckgo.com/ip3/zombieden.cn.ico",
     "slug": "zombieden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1908,
-    "timeDay": 4320,
-    "timeWeek": 2455,
-    "timeMonth": 2182,
-    "timeYear": 2064,
+    "time": 1909,
+    "timeDay": 3413,
+    "timeWeek": 2377,
+    "timeMonth": 2170,
+    "timeYear": 2063,
     "dailyMinutesDown": {}
   }
 ]
