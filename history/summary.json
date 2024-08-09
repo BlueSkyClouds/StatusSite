@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 3567,
-    "timeYear": 2152,
+    "timeYear": 2154,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1981,
+    "time": 1980,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1681,
-    "timeYear": 1808,
+    "timeYear": 1807,
     "dailyMinutesDown": {}
   },
   {
@@ -46,7 +46,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 786,
+    "time": 788,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2514,
-    "timeDay": 1483,
-    "timeWeek": 1725,
-    "timeMonth": 1633,
-    "timeYear": 2647,
+    "time": 2508,
+    "timeDay": 1664,
+    "timeWeek": 1731,
+    "timeMonth": 1638,
+    "timeYear": 2645,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://zombieden.cn/#ServerList-Title",
     "icon": "https://icons.duckduckgo.com/ip3/zombieden.cn.ico",
     "slug": "zombieden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2097,
-    "timeDay": 1668,
-    "timeWeek": 1861,
-    "timeMonth": 2091,
-    "timeYear": 2186,
+    "time": 2100,
+    "timeDay": 1831,
+    "timeWeek": 1883,
+    "timeMonth": 2093,
+    "timeYear": 2188,
     "dailyMinutesDown": {}
   }
 ]
