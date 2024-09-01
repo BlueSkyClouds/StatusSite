@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2090,
+    "timeYear": 2081,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://zombieden.cn/#ServerList-Title",
     "icon": "https://icons.duckduckgo.com/ip3/zombieden.cn.ico",
     "slug": "zombieden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2113,
-    "timeDay": 2353,
-    "timeWeek": 2031,
-    "timeMonth": 1919,
-    "timeYear": 2179,
+    "time": 2112,
+    "timeDay": 1922,
+    "timeWeek": 1989,
+    "timeMonth": 1908,
+    "timeYear": 2177,
     "dailyMinutesDown": {}
   }
 ]
