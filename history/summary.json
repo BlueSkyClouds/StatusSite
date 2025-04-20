@@ -58,17 +58,17 @@
     "url": "https://bbs.upkk.com",
     "icon": "https://icons.duckduckgo.com/ip3/bbs.upkk.com.ico",
     "slug": "93x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1215,
-    "timeDay": 1390,
-    "timeWeek": 1173,
-    "timeMonth": 471,
-    "timeYear": 1034,
+    "time": 1214,
+    "timeDay": 1131,
+    "timeWeek": 1139,
+    "timeMonth": 483,
+    "timeYear": 1033,
     "dailyMinutesDown": {}
   },
   {
@@ -84,9 +84,9 @@
     "uptimeYear": "100.00%",
     "time": 2098,
     "timeDay": 2416,
-    "timeWeek": 2298,
+    "timeWeek": 2319,
     "timeMonth": 2028,
-    "timeYear": 2089,
+    "timeYear": 2090,
     "dailyMinutesDown": {}
   }
 ]
